@@ -1,0 +1,13 @@
+{
+	"name": "riverd-android",
+	"description": "Static D bindings for Android native library",
+	"copyright": "Copyright © 2019, Aurora Free Open Source Software",
+	"license": "LGPL-3.0",
+	"authors": [
+		"Luís Ferreira"
+	],
+	"targetType": "staticLibrary",
+	"targetPath": ".out/bin",
+	"importPaths": ["source"],
+	"sourcePaths": ["source"]
+}
